@@ -1,0 +1,92 @@
+# Seleção de Armas (GSD) V1.fxt 
+# Suportes: Seleœšo de Armas 1.0 
+# Mod by Geneilson
+# 
+PWPMER ~r~Deu Erro! ~n~Comportamento do Script Invalido.
+
+PISTOL Beretta 92SF
+PISTSL MP5A5 com Silenciador
+DEAGLE Magnum Python 357
+SHOTGN1 Remington 870
+SHOTGN2 Benelli XM1014
+SHOTGN3 Spas-12 Scoped
+UZI MP5A4
+TEC9 MP5K
+MP5 MP5A4 com Scope
+AK MP5A5 com Scope
+M4 M4
+RIFLE M14
+SNIPE SVD Dragunov
+
+PWPM13 Coquetel Molotov
+PWPM14 Granada de G˜s
+GRENADE Granada de Impacto
+DETONA C4 Explosivo
+
+ROCKET Bazuca RPG
+ROCKHS Bazuca Safim 43 Redeye
+FLAMET Lanœa Chamas
+MINIGU M134 Minigun
+
+PWPM00 Luva de UFC
+PWPM01 T˜co de Golf
+PWPM02 Cacetžte
+PWPM03 Faca de Combate
+PWPM04 Bastšo de Baseball
+PWPM05 P˜
+PWPM06 T˜co de Sinuca
+PWPM07 Espada Justiceira
+PWPM08 Motoserra Stihl
+
+PWPM16 Lata de Spray
+PWPM17 Extintor
+PWPM18 Camera
+PWPM19 Oculos Nightvision
+PWPM20 Ratreador do Vegeta
+PWPM21 Paraquedas
+PWPM22 MulŸta
+PWPM23 Canivžte Groove Street
+PWPM24 Martelo do Trovšo
+PWPM25 MarrŸta Bionica
+PWPM26 Flores
+PWPM27 Espada de Grayskull
+
+AMMUN Menu de Armas
+GUN1 Pistolas
+GUN2 Escopetas
+GUN3 Metralhadoras
+GUN4 Metralhadora Extra
+GUN5 Metralhadoras Potentes
+GUN6 Rifles
+GUN7 Itens de Arremesso
+GUN8 ResitŸncia
+
+PWMPHE Itens Especiais
+PWMPHG Itens Adicionais
+PWMPHH Armas Pesadas
+PWPMHM Itens Alternativas
+
+PWMPN1 1                        
+PWMPN2 10
+PWMPN3 50
+PWMPN4 100
+PWMPN5 200
+PWMPN6 500  
+PWMPN7 1000
+PWMPN8 5000  
+PWMPNI Infinito
+PWMPJE Jetpack
+PWPMX1 Saªde
+ARMOUR ResitŸncia
+
+PWPMX3 Saªde e ResitŸncia
+PWPMX4 Use a Seta Esquerda/Direita para ajustar o nivel de ResitŸncia a Bala.~k~~PED_SPRINT~ para Confirmar. ~k~~VEHICLE_ENTER_EXIT~ para Cancelar.
+PWPMX5 ~r~Definiœ¨es de ResitŸncia Cancelada.~w~
+PWPMX6 ResitŸncia definido para ~b~~1~~w~.
+PWPMX7 Use a Seta Esquerda/Direita para ajustar o nivel de Saªde.~k~~PED_SPRINT~ para Confirmar. ~k~~VEHICLE_ENTER_EXIT~ para Cancelar.
+PWPMX8 ~r~Definiœ¨es de Saªde Cancelada.~w~
+PWPMX9 Saªde definido para ~b~~1~~w~.
+ERROR1 ~r~Deu Erro:~ Comportamento do Script Invalido
+ERROR2 ~r~Deu Erro:~ Script foi Encerrado!
+ERROR3 ~r~Deu Erro:~ Script desconhecido: Modelo em questšo Carregando!
+# Copyright© 2014 by Geneilson. 
