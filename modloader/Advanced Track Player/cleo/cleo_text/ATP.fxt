@@ -1,0 +1,13 @@
+ATP1 Channel is out of range
+ATP2 ATP Debug on
+ATP3 ATP Debug off
+ATP4 Displaying all out of bound channels.
+ATP5 Hiding all out of bound channels.
+ATP6 Resetting advanced track player...
+ATP7 Scanning advanced tracks...
+ATP8 Successfully scanned advanced tracks
+
+ATPDB1 Loading bass.dll...
+ATPDB4 ~r~ERROR~s~: Error while applying EQ!~n~BASS_Error 5: Invalid Handle!~n~[Channel ~1~][FXFlag: ~1~]
+ATPDB5 ~r~ERROR~s~: Error while applying EQ!~n~BASS_Error 20: Invalid Parameter!~n~[Channel ~1~][FXFlag: ~1~]
+ATPDB6 ~r~ERROR~s~: Error while applying EQ!~n~BASS_Error -1: Unknown Problem!~n~[Channel ~1~][FXFlag: ~1~]
